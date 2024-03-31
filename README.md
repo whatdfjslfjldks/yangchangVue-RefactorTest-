@@ -2,5 +2,5 @@
 
 
 ### 启动方式
-cd .\yanchang-vue\ 
-npm run dev
+1. cd .\yanchang-vue\ 
+2. npm run dev
